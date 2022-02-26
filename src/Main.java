@@ -10,7 +10,7 @@ public class Main {
 
         }
         public static void buy(){
-            System.out.println("I will buy this car");
+            System.out.println("I will not buy this car");
         }
         int carSpeed = 0;
     }
